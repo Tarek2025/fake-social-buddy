@@ -32,13 +32,13 @@ const Header = () => {
         <AppBar position="static">
         <Toolbar>
           <Typography variant="h6" className={classes.title}>
-            FaceBook
+            Facebook
           </Typography>
           <Link href="/home" className={classes.menuItem}>
             Home
           </Link>
           <Link href="/posts" className={classes.menuItem}>
-            Posts
+            Post
           </Link>
           <Link href="/about" className={classes.menuItem}>
             About
