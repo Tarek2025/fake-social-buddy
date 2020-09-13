@@ -7,12 +7,11 @@ const Comments = (props) => {
     return (
         <div>
             <div className="comments-container">
-                <h5>{name}</h5>
+                <h4>{name}</h4>
                 <p><small>{email}</small></p>
                 <p><small>{body}</small></p>
             </div>
         </div>
     );
 };
-
 export default Comments;

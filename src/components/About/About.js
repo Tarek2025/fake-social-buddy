@@ -6,7 +6,7 @@ const About = () => {
         <div className="about-css">
             <h4>Developed By</h4>
             <h2>Tarek Hasan</h2>
-            <p>This is a simple facebook website.</p>
+            <p>This is a simple fake social buddy app,like facebook website.</p>
         </div>
     );
 };
